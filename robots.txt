@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://utahteleprompter.com/sitemap.xml
+
+# Utah Teleprompter - Professional Teleprompter Services
+# Part of the National Teleprompter Network
+# A Claduta Corp Company
